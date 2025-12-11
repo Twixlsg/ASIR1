@@ -23,7 +23,6 @@ El repositorio está organizado por módulos y contiene tanto apuntes teóricos 
 
 Aquí encontrarás las siguientes carpetas principales:
 
-Módulo (Asignatura),Enfoque Principal,Tecnologías y Conceptos Clave
 -->Implantación de Sistemas Operativos (ISO),"Instalación, configuración y automatización de sistemas operativos (Linux y Windows Server).","Bash, PowerShell, LVM, Máquinas Virtuales (VMware/VirtualBox)."
 -->Planificación y Administración de Redes (PAR),"Fundamentos de la infraestructura de red, protocolos y direccionamiento.","TCP/IP, Modelo OSI, Subnetting (IPv4 e IPv6), Routers, Switches."
 -->Fundamentos de Hardware (FH),"Componentes físicos, ensamblaje, mantenimiento y diagnóstico de averías.","CPU, RAM, Placas Base, PCI−E, Almacenamiento HDD/SSD."
